@@ -3,13 +3,13 @@
 
 ## Executive Summary
 
-This syllabus was initially created to train developers. Its objectives is to answer the question many people asked, "Where to start?". There are a lot of information about how to set up nodes, how to use APIs, and how to use SDKs, yet, many still ask, “How do I start?”  
+This syllabus was initially created to train developers. Its objectives is to answer the question many people asked, `"Where to start?"`. There are a lot of information about how to set up nodes, how to use APIs, and how to use SDKs, yet, many still ask, `“How do I start?” ` 
 
-There are a small bunch of developers whom we came across who do know how to do that or have already built an application on NEM Blockchain. However, the integration would be more effective and efficient if the understanding of NEM Blockchain's features and the implementations of SDKs, wrappers and APIs etc. were being better understood. Case in view, a project has created mosaics with no divisibility. They need 108 billions of mosaics to represent the amount of ICO fund they had raised. Knowing the characteristics of the 5 features, and more for Catapult, would have helped in designing a better architecture for the application.  
+There are a small bunch of developers whom we came across who do know how to do that or have already built an application on NEM Blockchain. However, the integration would be more effective and efficient if the understanding of NEM Blockchain's features and the implementations of SDKs, wrappers and APIs etc. were being better understood. Case in view, a project has created mosaics with no divisibility. They need 108 billions of mosaics to represent the amount of ICO fund they had raised. Knowing the characteristics of the 5 features would have helped in designing a better architecture for the application.  
 
 With the demand from universities to offer Blockchain courses, the syllabus was expanded to fit into academia’s requirements. The modules can be customised to fit into different faculties, different group of audience and duration of trainings.  
 
-Currently, we (NEM MY Tech team and PH Team) are answering to the needs of the universities on an ad hoc basis. A better planning and execution would be helpful to push the syllabus for a wider adoption. This is not only to fully capitalise on the syllabus created, it is also to help in the mass adoption of NEM when it is known to more people, starting from the education institutes.  
+Currently, we are answering to the needs of the universities on an ad hoc basis. A better planning and execution would be helpful to push the syllabus for a wider adoption. This is not only to fully capitalise on the syllabus created, it is also to help in the mass adoption of NEM when it is known to more people, starting from the education institutes.  
 
 The main benefits of promoting NEM Blockchain syllabus to the education institutes are:
 1. Early exposure for students to NEM Blockchain.
@@ -27,39 +27,37 @@ Education will not be the only profit-generating unit, it will also directly or 
 Before diving in, it is always good to do an audit internally and externally.
 
 ## Strengths
-• Ready modular syllabus that is customisable.
-• Trial run starting in January 2019 with 2 universities in Manila.
-• Another 9 education institutes will be working with NEM PH to offer blockchain syllabus
-in 2019. Amongst all, we have the top universities in Philippines partnering with NEM PH.
+• Ready modular syllabus that is customisable.  
+• Trial run starting in January 2019 with 2 universities in Manila.  
+• Another 9 education institutes will be working with NEM PH to offer blockchain syllabus in 2019. Amongst all, we have the top universities in Philippines partnering with NEM PH.  
 • NEM technology makes it easier to be incorporated in university’s syllabus as compare
-to others.  
+to others.    
 
 ## Weaknesses
-• Lack of manpower: assistant writer and trainers that able to train the trainers.
-• Lack of proper planning and integration within departments. 
+• Lack of manpower: assistant writer and trainers that able to train the trainers.  
+• Lack of proper planning and integration within departments.   
 
 ## Opportunities
-• More demand for blockchain developers than supply.
-• Certifications of developers, business partners and education partners.
-• No other blockchain has ready syllabus for universities.
-• Students who graduating will be garnered with NEM Blockchain technology’s
-knowledge hence become the influencers to start-ups and enterprises.
-• Mass adoption of NEM with more influencers and developers around.
-• More opportunities of R&D in academia.
+• More demand for blockchain developers than supply.  
+• Certifications of developers, business partners and education partners.  
+• No other blockchain has ready syllabus for universities.  
+• Students who graduating will be garnered with NEM Blockchain technology’s knowledge hence become the influencers to start-ups and enterprises.  
+• Mass adoption of NEM with more influencers and developers around.  
+• More opportunities of R&D in academia.  
 
 ## Threats
-• Other blockchain platforms might be coming up with syllabus for universities and certifications for developers.
+• Other blockchain platforms might be coming up with syllabus for universities and certifications for developers.  
 • Too slow to mass adoption.   
 
 ## Objectives
 The purposes of this proposal for education unit are to bring along the changes in the perception towards blockchain, to answer to the demand of developers and to make NEM a household brand. To breakdown to smaller objectives, it aims:  
-1. To promote blockchain and NEM.
-2. To produce developers and professionals to fill the demand gap.
-3. To aid mass adoption.
-4. To be able to engage more educational institutes more effectively.
-5. To gather more use cases.
-6. To bring in more research and development partners.
-7. To scout for talents. 
+1. To promote blockchain and NEM.  
+2. To produce developers and professionals to fill the demand gap.  
+3. To aid mass adoption.  
+4. To be able to engage more educational institutes more effectively.  
+5. To gather more use cases.  
+6. To bring in more research and development partners.  
+7. To scout for talents.   
 
 ## Key Result Areas
 There are few areas that are critical in order for the plan to be successfully executed. They are interconnecting and failing in achieving any of those areas might bring a ripple effect.  
@@ -83,79 +81,79 @@ university is different and each faculty has their own focuses, being able to an
 ## Actionable Areas
 Concluding from the aforementioned points, following are actionable areas that can be executed in stages.  
 
-1. Syllabus/ Products
-...a. New modules
-i. Catapult
-ii. Business IT
-iii. Business modules
-iv. Marketing and management
-v. Technical deep dive (Plug-ins, SDKs etc)
-...b. Improvement on modules
-...c. Other trainings
-i. Developers training
-ii. Business analysis training  
+1. Syllabus/ Products  
+**a. New modules**  
+*i. Catapult  
+ii. Business IT  
+iii. Business modules  
+iv. Marketing and management  
+v. Technical deep dive (Plug-ins, SDKs etc)*  
+**b. Improvement on modules**  
+**c. Other trainings**  
+*i. Developers training  
+ii. Business analysis training*    
 
-2. Education team/ Operation
-...a. Assistant writer
-i. Develop modules
-ii. Powerpoint slides
-iii. Following up and arranging for syllabus adoption in universities/colleges
-...b. Trainers
-i. Current NEM trainers
-• Support R&D locally.
-• Support NEM and technical trainings.
-ii. Trainers with TTT knowledge
-• Train lecturers from universities/ colleges.
-• Train NEM trainers  
+2. Education team/ Operation  
+**a. Assistant writer**  
+*i. Develop modules  
+ii. Powerpoint slides  
+iii. Following up and arranging for syllabus adoption in universities/colleges*  
+**b. Trainers**  
+*i. Current NEM trainers*   
+• Support R&D locally.    
+• Support NEM and technical trainings.  
+*ii. Trainers with TTT knowledge*  
+• Train lecturers from universities/ colleges.  
+• Train NEM trainers    
 
-3. Trainings
-...a. Introductory training 
-...b. Training for developers
-...c. Non-technical training
-...d. Train-the-trainer (TTT)   
+3. Trainings    
+**a. Introductory training   
+b. Training for developers  
+c. Non-technical training  
+d. Train-the-trainer (TTT)**     
 
-4. Marketing/ Business Development
-...a. BD Team in different regions and countries
-i. BD from each country and region is encouraged to introduce the syllabus to education institutes.
-ii. Syllabus and training for presenting the syllabus will be given.
-iii. Handover to education team after MOU signed.
-iv. Following up with education team for any other activities related to BD.
-...b. Internal marketing personnel
-i. Handle any leads from come directly to education unit.
-...c. Expanding to other regions.  
+4. Marketing/ Business Development  
+**a. BD Team in different regions and countries**  
+*i. BD from each country and region is encouraged to introduce the syllabus to education institutes.  
+ii. Syllabus and training for presenting the syllabus will be given.  
+iii. Handover to education team after MOU signed.  
+iv. Following up with education team for any other activities related to BD.*  
+**b. Internal marketing personnel**  
+*i. Handle any leads from come directly to education unit.*  
+**c. Expanding to other regions.**    
 
-5. Certification (refer to the end of this proposal for details)
-...a. Developers
-...b. Business Consultant
-...c. System Integrator
-...d. Education Institute
-...e. Corporate Partner  
+5. Certification (refer to the end of this proposal for details)   
+**a. Developers  
+b. Business Consultant  
+c. System Integrator  
+d. Education Institute  
+e. Corporate Partner**   
 
-6. Research and Development
-...a. Use Cases
-...b. Blockchain
+6. Research and Development  
+**a. Use Cases  
+b. Blockchain**   
 
-7. Job market
-...a. Internally for NEM
-...b. For associate projects/partners
-...c. Open job market  
+7. Job market  
+**a. Internally for NEM  
+b. For associate projects/partners  
+c. Open job market**   
 
-8. Feedback system
-...a. Train-the-trainer
-i. Clarity of the content delivery.
-ii. Length of training.
-iii. Language barrier and understanding
-...b. Syllabus
-i. Relevancy
-ii. Ease of understanding
-...c. Research and Development
-i. Support level
-ii. Validity to the market needs.
-...d. Marketing/ BD
-i. Effectiveness in communication  
+8. Feedback system  
+**a. Train-the-trainer**  
+*i. Clarity of the content delivery.  
+ii. Length of training.  
+iii. Language barrier and understanding*  
+**b. Syllabus**  
+*i. Relevancy  
+ii. Ease of understanding*  
+**c. Research and Development**  
+*i. Support level  
+ii. Validity to the market needs.*  
+**d. Marketing/ BD**  
+*i. Effectiveness in communication*    
 
 ## Key Performance Indicators
-Target is always good to be specific, measurable, achievable yet difficult enough, and timed. Main targets that we are looking at are as followed: (Please refer to the document in this link to look at previous proposal done in 2018.)
+Target is always good to be specific, measurable, achievable yet difficult enough, and timed. Main targets that we are looking at are as followed: (Please refer to the document in this [link](https://drive.google.com/drive/folders/1yOp5FcOJaX-qtKiPBygxTGw9p2RzDX9D) to look at previous proposal done in 2018.)
 
 1. Number of universities onboarding in a year. The target is set based on interested parties that have reached out to us.
 
@@ -172,37 +170,39 @@ Target is always good to be specific, measurable, achievable yet difficult enoug
 ## Scheduling
 Based on the actionable areas, the schedule to start each task are proposed as followed:  
 1. First quarter of 2019  
-...a. Syllabus for Catapult  
-...b. Syllabus for Business IT  
-...c. Developers training  
-...d. Hiring assistant writer cum operation executive  
-...e. Identify use cases R&D from universities master courses.  
-...f. Setup feedback system.  
+*a. Syllabus for Catapult  
+b. Syllabus for Business IT  
+c. Developers training  
+d. Hiring assistant writer cum operation executive  
+e. Identify use cases R&D from universities master courses.  
+f. Setup feedback system.*  
 
 2. Second quarter of 2019  
-...a. Syllabus for business modules  
-...b. Business analyst training  
-...c. Train local NEM trainers  
-...d. Hire marketing personnel.  
-...e. Certification  
+*a. Syllabus for business modules  
+b. Business analyst training  
+c. Train local NEM trainers  
+d. Hire marketing personnel.  
+e. Certification*  
 
 3. Third quarter of 2019  
-...a. Establish job placement unit.  
-...b. Identify trainers for TTT.  
+*a. Establish job placement unit.  
+b. Identify trainers for TTT.*   
 
 4. Last quarter of 2019  
-...a. Collecting use cases from universities/colleges  
-...b. Expansion outside of Southeast Asia.   
+*a. Collecting use cases from universities/colleges  
+b. Expansion outside of Southeast Asia.*   
 
 5. 2020  
-...a. Identify talents for NEM whenever scouted.  
-...b. Syllabus for technical deep dive.   
+*a. Identify talents for NEM whenever scouted.  
+b. Syllabus for technical deep dive.*   
 
 ## Budgeting
 Working out a budget for an organisation that spread across the globe is a challenge with the difference in currency and standard of living. Though a number is not being plugged in, please refer to the below for possible incomes and expenses.  
+
 `Income`
 1. Certification and membership 
 2. Trainings  
+
 `Expenses`
 1. Human Resources  
 2. Marketing and business development  
