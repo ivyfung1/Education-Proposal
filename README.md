@@ -1,5 +1,5 @@
 
-# Proposal for NEM Education
+# Proposal for NEM Education (v.2.0)
 
 ## Executive Summary
 
@@ -28,10 +28,9 @@ Before diving in, it is always good to do an audit internally and externally.
 
 ## Strengths
 • Ready modular syllabus that is customisable.  
-• Trial run starting in January 2019 with 2 universities in Manila.  
+• Trial run starting in January 2019 with 2 universities in Manila, i.e. Ateneo de Manila and Lyceum of the Philippines.
 • Another 9 education institutes will be working with NEM PH to offer blockchain syllabus in 2019. Amongst all, we have the top universities in Philippines partnering with NEM PH.  
-• NEM technology makes it easier to be incorporated in university’s syllabus as compare
-to others.    
+• NEM technology makes it easier to be incorporated in university’s syllabus as compare to others.    
 
 ## Weaknesses
 • Lack of manpower: assistant writer and trainers that able to train the trainers.  
@@ -157,44 +156,108 @@ Target is always good to be specific, measurable, achievable yet difficult enoug
 
 1. Number of universities onboarding in a year. The target is set based on interested parties that have reached out to us.
 
+| Country        | Year           | No. of Institutes  | 
+| ------------- |:-------------:| -----:|
+| Philippines    |2018 | 8 |
+||2019  |16 |
+||2020  |32 |  
+
+**Justifications**   
+*As of today, 11 universities are partnering with NEM PH to offer blockchain courses.
+Universities and colleges are very receptive to offering Blockchain courses.
+Easier to penetrate into private universities in Philippines.
+Blockchain is widely accepted in Philippines. There is demand for developers for Blockchain applications.*
+
+| Country        | Year           | No. of Institutes  | 
+| ------------- |:-------------:| -----:|
+| Malaysia    |2019 | 3 |
+||2020  |6 | 
+
+**Justifications**  
+*Handful of universities shown interest.*
+
+| Country        | Year           | No. of Institutes  | 
+| ------------- |:-------------:| -----:|
+| Other countries    |2019 | 10 |
+||2020  |20 | 
+
+**Justifications**  
+*Syllabus was shared to teams in Japan, UAE, Thailand, China, Latin America and North America.*
+
 2. Number of system integrators (SI) and corporate partners onboarding in a year. Target on onboarding system integrators and corporate partners is going modest as this sector has grown slower than education and to have enough workforce for the SI and corporates, churning out supply to the workforce would be considered as solving both problems in one go. Aligning the plan with business development would be able to pump up the figure.
+  
+| Country        | Year           | No. of SI  | 
+| ------------- |:-------------:| -----:|
+| Philippines    |2019 | 2 |
+||2020  |4 | 
+
+**Justifications**  
+*Blockchain is widely accepted in Philippines. There is demand for developers for Blockchain applications.*
+
+| Country        | Year           | No. of SI  | 
+| ------------- |:-------------:| -----:|
+| China    |2019 | 2 |
+||2020  |4 | 
+
+**Justifications**  
+*Interested parties reached out to China team.*
+  
+| Country        | Year           | No. of SI  | 
+| ------------- |:-------------:| -----:|
+| Indonesia    |2019 | 2 |
+||2020  |4 | 
+
+**Justifications**  
+* Blockchain is very receptive amongst big companies as well as startups in Indonesia.*
+  
+| Country        | Year           | No. of SI  | 
+| ------------- |:-------------:| -----:|
+| Malaysia    |2019 | 3 |
+||2020  |6 | 
   
 3. Number of extra faculty signed up in a year. Currently, only one faculty is signing up to offer blockchain course with NEM. Aiming to expand one more faculty each year in all the university offering NEM blockchain syllabus.
 
 4. New/updated modules per year. New modules are aiming to fit into university’s syllabus requirements.
   
+| Courses        | Descriptions           |
+| ------------- |:-------------:|
+| Catapult    |Features of Catapult |
+||Technical training for Catapult  |
+| Business IT    |Bridging the business world and technical world.  |
+|Business Modules |Tokenomic  |
+| | Marketing and managing a blockchain projects. Infused marketing and management with blockchain flavour.|
+|Technical deep dive| Architecture of Blockchain.|
+| | Database management for Blockchain.|
+| | SDK, APIs developments.|
+
 5. Number of research and development projects from the universities. Targeting to nurture at least one good use case per university per year.
 
 6. Number of certified members in a year. As this target would be dependable on the membership fee agreed by foundation and also the promotion of it. Hence, it is better off to be a shared target with other units rather than an education unit’s.
 
 ## Scheduling
 Based on the actionable areas, the schedule to start each task are proposed as followed:  
-1. First quarter of 2019  
+1. First half of 2019  
 *a. Syllabus for Catapult  
 b. Syllabus for Business IT  
 c. Developers training  
-d. Hiring assistant writer cum operation executive  
 e. Identify use cases R&D from universities master courses.  
-f. Setup feedback system.*  
+f. Setup feedback system.
+g. Certification.
+h. Establish job placement unit (There are companies that looking for us for students for internship and employment.)*  
 
-2. Second quarter of 2019  
+2. Third quarter of 2019  
 *a. Syllabus for business modules  
 b. Business analyst training  
 c. Train local NEM trainers  
-d. Hire marketing personnel.  
 e. Certification*  
 
-3. Third quarter of 2019  
-*a. Establish job placement unit.  
-b. Identify trainers for TTT.*   
-
-4. Last quarter of 2019  
-*a. Collecting use cases from universities/colleges  
-b. Expansion outside of Southeast Asia.*   
+3. Forth quarter of 2019  
+*  a. Identify trainers for TTT.
+b. Collecting use cases from universities/colleges  
+c. Expansion outside of Southeast Asia.*   
 
 5. 2020  
-*a. Identify talents for NEM whenever scouted.  
-b. Syllabus for technical deep dive.*   
+*a. Syllabus for technical deep dive.*   
 
 ## Budgeting
 Working out a budget for an organisation that spread across the globe is a challenge with the difference in currency and standard of living. Though a number is not being plugged in, please refer to the below for possible incomes and expenses.  
